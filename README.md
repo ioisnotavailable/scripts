@@ -14,4 +14,9 @@ This script can be added keyboard shortcut.
 ### Dependency
 >xdotool
 
+## [pinta](https://github.com/ioisnotavailable/scripts/blob/main/pinta)
+I installed flatpak **pinta** app manually. Then learn run command and I don't want to write the command everytime when I want run **Pinta**.
+### Running theese commands:
+>`sudo apt update && sudo apt update -y`
+
 _@ioisnotavailable_
